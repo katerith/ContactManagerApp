@@ -4,6 +4,15 @@ You can use the [editor on GitHub](https://github.com/katerith/ContactManagerApp
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![CI/CD](https://img.shields.io/circleci/build/github/katerith/ContactManagerApp)
+![GitHub](https://img.shields.io/github/license/katerith/ContactManagerApp)
+
+
+![CI/CD](https://github.com/katerith/ContactManagerApp/workflows/CI/CD/badge.svg)
+[![Codecov](https://img.shields.io/codecov/c/github/katerith/ContactManagerApp)](https://codecov.io/gh/katerith/ContactManagerApp)
+![License](https://img.shields.io/github/license/katerith/ContactManagerApp)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
